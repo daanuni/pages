@@ -4,15 +4,14 @@ You can use the [editor on GitHub](https://github.com/daanuni/pages/edit/master/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+![Image](https://www.unicreditgroup.eu/content/unicreditgroup-eu/en/unicredit-at-a-glance/our-identity/_jcr_content/content-parsys/image_6/image.img.jpg/1453137702459.jpg)
 
 # Header 1
+<h1>User Guide for UniCredit GitHub PoC
 ## Header 2
+<h3>this guide is for targeted for pilot users
 ### Header 3
 
 - Bulleted
@@ -22,16 +21,14 @@ Syntax highlighted code block
 2. List
 
 **Bold** and _Italic_ and `Code` text
+### Markdown
 
-[Link](url) and ![Image](src)
-```
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+```markdown
+Syntax highlighted code block
+add code here
+[Link](url)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/daanuni/pages/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This site uses GitHub Markdown for more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
